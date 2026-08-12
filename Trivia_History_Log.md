@@ -12,3 +12,18 @@ Facts tested:
 - Skin is the largest human organ
 Question structures used: Specific Detail, Comparison, Common Misconception, Technical Detail, Nearly Correct, Overlooked Detail, Timeline, Odd One Out, Common Misconception
 Correct answer distribution: A-3, B-3, C-3
+
+## 2026-08-12 — Topic: US Presidents
+Angle taken: Lesser-known, surprising presidential facts (firsts, records, obscure biographical details) rather than standard "who was president when" textbook knowledge.
+Facts tested:
+- Grover Cleveland served two non-consecutive presidential terms (22nd and 24th)
+- William Henry Harrison served the shortest presidential term (31 days)
+- James Buchanan is the only president who never married
+- John Tyler was the first VP to become president after a sitting president's death
+- Andrew Johnson was the first U.S. president to be impeached
+- Theodore Roosevelt was the youngest man to become president via succession, younger than JFK, the youngest elected
+- William Howard Taft is the only person to serve as both President and Chief Justice of the Supreme Court
+- John Quincy Adams served in the House of Representatives after his presidency
+- Zachary Taylor never voted in a presidential election before winning his own
+Question structures used: Hidden Fact, Numerical/Estimation, Common Misconception, Technical Detail, Before or After, Comparison, Overlooked Detail, Overlooked Detail, Specific Detail
+Correct answer distribution: A-3, B-3, C-3
