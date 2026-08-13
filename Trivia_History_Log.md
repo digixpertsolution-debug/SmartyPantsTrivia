@@ -27,3 +27,18 @@ Facts tested:
 - Zachary Taylor never voted in a presidential election before winning his own
 Question structures used: Hidden Fact, Numerical/Estimation, Common Misconception, Technical Detail, Before or After, Comparison, Overlooked Detail, Overlooked Detail, Specific Detail
 Correct answer distribution: A-3, B-3, C-3
+
+## 2026-08-13 — Topic: Only NFL Fans Can Answer
+Angle taken: Lesser-known NFL facts (ownership structure, trophy namesake, rule changes, obscure records) rather than standard game-result or Super Bowl-winner trivia.
+Facts tested:
+- NFL field is 120 yards total including both end zones
+- Green Bay Packers are the only fan/publicly-owned NFL franchise
+- The Super Bowl trophy is named after Vince Lombardi
+- The 1972 Miami Dolphins are the only team to finish a season perfectly undefeated, playoffs included
+- The NFL didn't adopt the two-point conversion until 1994
+- Current playoff overtime rules guarantee both teams a possession
+- Super Bowl I (1967) was not a sellout
+- Tom Brady was drafted in the sixth round in 2000
+- Brett Favre holds the NFL record for most career interceptions
+Question structures used: Numerical/Estimation, Hidden Fact, Hidden Fact, Comparison, Timeline, Technical Detail, Debate Starter, Overlooked Detail, Specific Detail
+Correct answer distribution: A-3, B-3, C-3
