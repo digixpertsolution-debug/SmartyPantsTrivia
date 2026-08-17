@@ -42,3 +42,16 @@ Facts tested:
 - Brett Favre holds the NFL record for most career interceptions
 Question structures used: Numerical/Estimation, Hidden Fact, Hidden Fact, Comparison, Timeline, Technical Detail, Debate Starter, Overlooked Detail, Specific Detail
 Correct answer distribution: A-3, B-3, C-3
+
+## 2026-08-17 — Topic: American Sports
+Angle taken: Cross-sport (basketball, baseball, college football, horse racing, Olympics) lesser-known and record-based facts, deliberately avoiding NFL since it's already been covered twice.
+Facts tested:
+- Early basketball hoops (peach baskets) had closed bottoms, requiring manual ball retrieval (1891)
+- Cy Young's 511 career wins is considered MLB's most unbreakable record
+- No video footage exists of Wilt Chamberlain's 100-point game (1962)
+- Archie Griffin is the only two-time Heisman Trophy winner (1974, 1975)
+- The Kentucky Derby (1875) is the oldest continuously held sporting event in the U.S.
+- The marathon distance wasn't officially standardized to 26.2 miles until 1921, 13 years after the 1908 London Olympics
+Question structures used: Hidden Fact, Numerical/Estimation, Debate Starter, Overlooked Detail, Comparison, Timeline
+Question count: 6
+Correct answer distribution: A-2, B-2, C-2
