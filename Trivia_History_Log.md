@@ -55,3 +55,19 @@ Facts tested:
 Question structures used: Hidden Fact, Numerical/Estimation, Debate Starter, Overlooked Detail, Comparison, Timeline
 Question count: 6
 Correct answer distribution: A-2, B-2, C-2
+
+## 2026-08-18 — Topic: General Knowledge
+Angle taken: Cross-category "sounds fake but true" surprising facts (biology, history, astronomy, language, measurement) rather than standard textbook trivia.
+Facts tested:
+- Bananas are botanically berries; strawberries are not
+- Octopuses have three hearts
+- Wombats produce cube-shaped droppings
+- The Anglo-Zanzibar War (1896) lasted about 38 minutes, the shortest war in history
+- Venus's day (243 Earth days) is longer than its year (225 Earth days)
+- Scotland's official national animal is the unicorn
+- The dot above a lowercase "i" is called a tittle
+- Sharks predate trees by tens of millions of years
+- A "jiffy" is a real, defined unit of time in physics
+Question structures used: Classification, Numerical/Estimation, Hidden Fact, Timeline, Comparison, Debate Starter, Technical Detail, Before or After, Technical Detail
+Question count: 9
+Correct answer distribution: A-3, B-3, C-3
